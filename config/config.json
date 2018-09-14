@@ -1,9 +1,10 @@
 {
   "development": {
     "username": "root",
-    "password": "Polska32696",
+    "password": "password",
     "database": "radix_db",
     "host": "localhost",
+    "port": "3307",
     "dialect": "mysql"
   },
   "test": {
